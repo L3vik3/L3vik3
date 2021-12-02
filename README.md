@@ -1,6 +1,7 @@
 #        <p align="center">   Hi, I'm Levike     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </p>
-
+<p align="center">
 <img src="winter_landscape.gif">
+</p>
 <hr>
 <p align="center">
      <img src="https://img.shields.io/badge/Levike%230001-%23586aea.svg?logo=discord&logoColor=white" alt="Discord" title="Discord">  
