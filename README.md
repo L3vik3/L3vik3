@@ -13,7 +13,11 @@
 
 <hr>
 
-## <p align="center">📚 Languages ⚔️</p>
+<div align="center">
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Levike's%20%20Tech%20Stack&lineCount=2&theme=levike&align=center&line1=javascript,javascript,edd415;&line1=javascript,javascript,edd415;&line2=Node.js,Node.js,27ed15;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Levike's%20%20Tech%20Stack&lineCount=2&theme=levike&align=center&line1=javascript,javascript,edd415;&line1=javascript,javascript,edd415;&line2=Node.js,Node.js,27ed15;)
+</div>
+<!-- ## <p align="center">📚 Languages ⚔️</p>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++">
@@ -23,7 +27,7 @@
   <img src="https://img.shields.io/badge/css3-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
   <img src="https://img.shields.io/badge/sql-%2300618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript">
-</p>
+</p> -->
 
 <hr>
 
