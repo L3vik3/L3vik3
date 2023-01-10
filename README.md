@@ -7,16 +7,14 @@
 <p align="center">
      <img src="https://img.shields.io/badge/Levike%230001-%23586aea.svg?logo=discord&logoColor=white" alt="Discord" title="Discord">  
       <img src="https://visitor-badge.glitch.me/badge?page_id=L3vik3" alt="visitors" title="visitors">  
-   <img src="https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windowslogo" title="Windows 10">
-   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" title="Kali Linux">
-
 </p>
 
 <hr>
 
 <div align="center">
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Levi's%20Tech%20Stack&align=center&lineCount=3&theme=2077&line1=javascript,Javascript,d3ed0c;&line2=node.js,node.js,10e013;&line3=csharp,csharp,1550e5;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Levi's%20Tech%20Stack&align=center&lineCount=3&theme=2077&line1=javascript,Javascript,d3ed0c;&line2=node.js,node.js,10e013;&line3=csharp,csharp,1550e5;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Levis%20Tech%20Stack&align=center&lineCount=5&theme=2077&line1=javascript,Javascript,dad30b;&line2=node.js,node.js,3cda10;&line3=csharp,csharp,0c1adf;&line4=Windows,Windows10,09ece8;&line5=Kali%20Linux,Kali%20Linux,dd0e0e;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Levi's%20Tech%20Stack&align=center&lineCount=5&theme=2077&line1=javascript,Javascript,dad30b;&line2=node.js,node.js,3cda10;&line3=csharp,csharp,0c1adf;&line4=Windows,Windows10,09ece8;&line5=Kali%20Linux,Kali%20Linux,dd0e0e;)
+
 </div>
 <!-- ## <p align="center">📚 Languages ⚔️</p>
 <p align="center">
