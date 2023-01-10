@@ -1,6 +1,7 @@
 #        <p align="center">   Hi, I'm Levike     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </p>
 <p align="center">
-  <img src="winter_landscape.gif"> 
+ <!--    <img src="winter_landscape.gif">   télen jó lesz még --->
+ <img src="./background.gif">
 </p>
 <hr>
 <p align="center">
@@ -15,7 +16,7 @@
 
 <div align="center">
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Levike's%20%20Tech%20Stack&lineCount=2&theme=levike&align=center&line1=javascript,javascript,edd415;&line1=javascript,javascript,edd415;&line2=Node.js,Node.js,27ed15;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Levike's%20%20Tech%20Stack&lineCount=2&theme=levike&align=center&line1=javascript,javascript,edd415;&line1=javascript,javascript,edd415;&line2=Node.js,Node.js,27ed15;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Levi's%20Tech%20Stack&align=center&lineCount=3&theme=2077&line1=javascript,Javascript,d3ed0c;&line2=node.js,node.js,10e013;&line3=csharp,csharp,1550e5;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Levi's%20Tech%20Stack&align=center&lineCount=3&theme=2077&line1=javascript,Javascript,d3ed0c;&line2=node.js,node.js,10e013;&line3=csharp,csharp,1550e5;)
 </div>
 <!-- ## <p align="center">📚 Languages ⚔️</p>
 <p align="center">
@@ -37,8 +38,8 @@
 
 ##  <p align="center">Hi! Welcome to my Github profile!  </p>
   <p align="center">
-    I learn ethical hacking, penetration testing, and multiple programming languages.  My hobbies: football, fps games, small workouts, music.
-
+  I am currently building C# desktop and console applications. I don't do much penetration testing. My hobbies: football, fps games, small workouts, music.
+ 
 </p>
 <hr>
 
