@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
      <img src="https://img.shields.io/badge/Levike%230001-%23586aea.svg?logo=discord&logoColor=white" alt="Discord" title="Discord">  
-      <img src="https://visitor-badge.glitch.me/badge?page_id=L3vik3" alt="visitors" title="visitors">  
+    <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=L3vik3" alt="visitors" title="visitors">  --> 
 </p>
 
 <hr>
